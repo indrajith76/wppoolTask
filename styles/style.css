@@ -11,8 +11,8 @@ html {
 }
 
 .bannerBg {
-  background: url(./images/Rectangle.png) no-repeat center,
-    url(./images/bg-1.png) no-repeat center, #2042b6;
+  background: url("./images/Rectangle.png") no-repeat center,
+    url("./images/bg-1.png") no-repeat center, #2042b6;
   background-blend-mode: normal, color-burn;
 }
 
@@ -58,7 +58,7 @@ td {
 
 /* slider */
 #sliderSection {
-  background: url(./images/bg-2.png) no-repeat, #f3f4f6;
+  background: url("./images/bg-2.png") no-repeat, #f3f4f6;
   background-position: right bottom;
   background-size: auto;
 }
@@ -110,7 +110,7 @@ td {
 
 /* about */
 #about > div {
-  background: url(./images/bg-3.png) no-repeat right bottom, #fff;
+  background: url("./images/bg-3.png") no-repeat right bottom, #fff;
   background-size: contain; 
   border-radius: 12px;
 }
